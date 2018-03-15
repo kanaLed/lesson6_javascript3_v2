@@ -13,7 +13,7 @@ Kana Ledbetter
 This project is to create a photo gallery application by using JavaScript.
 
 ### View Project:
- https://kanaled.github.io/lesson6_javascript3_v2/
+ https://kanaled.github.io/lesson6_javascript3_v2/Lesson6_photogallery/
 
 ### Lessons Learned in the Assignment:
 1. In this lesson I learned the introduction about DOM (the Document Object Model).
